@@ -1,0 +1,26 @@
+PODS:
+  - Cordova (5.1.1)
+  - cordova-plugin-inappbrowser (1.5.0):
+    - Cordova (>= 4.3.0)
+  - cordova-plugin-wkwebview-engine (1.1.0):
+    - Cordova (>= 4.3.0)
+
+DEPENDENCIES:
+  - Cordova
+  - cordova-plugin-inappbrowser
+  - cordova-plugin-wkwebview-engine
+
+SPEC REPOS:
+  trunk:
+    - Cordova
+    - cordova-plugin-inappbrowser
+    - cordova-plugin-wkwebview-engine
+
+SPEC CHECKSUMS:
+  Cordova: 5490a208d8396a5cdbbba24732cb2f8779123f8e
+  cordova-plugin-inappbrowser: 524780743ddeaa363d9f70b5e4700d55efde3dd4
+  cordova-plugin-wkwebview-engine: 38ccefc374b68251e8a0675fec57477dfd18da15
+
+PODFILE CHECKSUM: df52df11d283d0d591535804f025c1801bfa680c
+
+COCOAPODS: 1.10.1

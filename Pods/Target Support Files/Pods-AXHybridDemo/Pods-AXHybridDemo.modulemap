@@ -1,0 +1,6 @@
+framework module Pods_AXHybridDemo {
+  umbrella header "Pods-AXHybridDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

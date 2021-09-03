@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-AXHybridDemo/Pods-AXHybridDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Cordova/Cordova.framework
+${BUILT_PRODUCTS_DIR}/cordova-plugin-inappbrowser/cordova_plugin_inappbrowser.framework
+${BUILT_PRODUCTS_DIR}/cordova-plugin-wkwebview-engine/cordova_plugin_wkwebview_engine.framework
